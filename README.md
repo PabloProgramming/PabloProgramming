@@ -22,16 +22,6 @@
 📝 &nbsp; &nbsp; I keep updated about the lastest tech news.\
 ⭐️ &nbsp; &nbsp; In my free time I learn about finance, economics, and investments.\
 
-<details>
-  <summary>More about my dogs</summary>&nbsp;
-
-  <img src="https://github.com/gartnerleandro/gartnerleandro/blob/main/uploads/Jodie-en.png" alt="Jodie">&nbsp;
-
-  <img src="https://github.com/gartnerleandro/gartnerleandro/blob/main/uploads/Bonnie-en.png" alt="Bonnie">&nbsp;
-
-  <img src="https://github.com/gartnerleandro/gartnerleandro/blob/main/uploads/Damon-en.png" alt="Damon">
-</details>
-
 &nbsp;
 
 ## 🔝 Top used languages
