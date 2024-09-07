@@ -15,7 +15,7 @@
 
 ## 🤖 About me
 
-🛠️ &nbsp; &nbsp; Coding since 2022 with 3+ years of experience in software development.\
+🛠️ &nbsp; &nbsp; Coding since 2022 with 2+ years of experience in software development.\
 ✈️ &nbsp; &nbsp; Born in Spain, currently living in London, UK.\
 📱 &nbsp; &nbsp; I have a passion for back-end development and I'm always looking for new challenges.\
 🏠 &nbsp; &nbsp; I'm a big fan of IOT and I love to make my home smarter every day.\
