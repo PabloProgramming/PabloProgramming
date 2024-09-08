@@ -19,8 +19,8 @@
 ✈️ &nbsp; &nbsp; Born in Spain, currently living in London, UK.\
 📱 &nbsp; &nbsp; I have a passion for back-end development and I'm always looking for new challenges.\
 🏠 &nbsp; &nbsp; I'm a big fan of IOT and I love to make my home smarter every day.\
-📝 &nbsp; &nbsp; I keep updated about the lastest tech news.\
-⭐️ &nbsp; &nbsp; In my free time I learn about finance, economics, and investments.\
+📝 &nbsp; &nbsp; I keep updated about the latest tech news.\
+⭐️ &nbsp; &nbsp; In my free time I learn about finance, economics, and investments.
 
 &nbsp;
 
