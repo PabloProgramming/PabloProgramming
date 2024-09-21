@@ -9,7 +9,7 @@
 
 <p><em>Freelance Developer seeking a full-time position.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pablo%20Montalvo-blue?style=social&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/pablo-montalvo-tercero/)]
+[![Linkedin Badge](https://img.shields.io/badge/-Pablo%20Montalvo%20Tercero-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pablo-montalvo-tercero/)](https://www.linkedin.com/in/pablo-montalvo-tercero/)
 
 [![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloProgramming)](https://github.com/PabloProgramming/github-readme-stats)
 
