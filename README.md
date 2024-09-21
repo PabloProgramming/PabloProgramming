@@ -26,5 +26,5 @@
 
 ## 🔝 Top used languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloProgramming_count=8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloProgramming&langs_count=8)
 
