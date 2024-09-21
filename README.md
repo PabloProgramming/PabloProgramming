@@ -11,7 +11,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pablo%20Montalvo-blue?style=social&logo=Linkedin&logoColor=blue&link=https:www.linkedin.com/in/pablo-montalvo-62b8b62b6/)](https://www.https://www.linkedin.com/in/pablo-montalvo-62b8b62b6/)
 
-![GitHub Stats](https://github-readme-stats-fork-amber.vercel.app/api?username=PabloProgramming&show_icons=true)
+[![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloProgramming)](https://github.com/PabloProgramming/github-readme-stats)
 
 ## 🤖 About me
 
