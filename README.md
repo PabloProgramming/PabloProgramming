@@ -16,11 +16,14 @@
 🛠️ &nbsp; &nbsp; Coding since 2022 with 2+ years of experience in software development.\
 ✈️ &nbsp; &nbsp; Born in Spain, currently living in London, UK.\
 📱 &nbsp; &nbsp; I have a passion for back-end development and I'm always looking for new challenges.\
-🏠 &nbsp; &nbsp; I'm a big fan of IOT and I love to make my home smarter every day.\
+🥇 &nbsp; &nbsp; I'm a big fan of clean code and best practices and I am a great team player.\
 📝 &nbsp; &nbsp; I keep updated about the latest tech news.\
 ⭐️ &nbsp; &nbsp; In my free time I learn about finance, economics, and investments.
 
 &nbsp;
+
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloProgramming&show_icons=true&theme=radical)
+
 
 ## 🔝 Top used languages
 
