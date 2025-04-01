@@ -7,9 +7,9 @@
 
 <img src="https://github.com/gartnerleandro/gartnerleandro/blob/main/uploads/animoji.png?raw=true" width="230">
 
-<p><em>Freelance Developer seeking a full-time position.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Pablo%20Montalvo%20Tercero-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pablo-montalvo-tercero/)](https://www.linkedin.com/in/pablo-montalvo-tercero/)
+<p><em>Software Developer seeking for a new role
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Pablo%20Montalvo%20Tercero-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/pablo-montalvo-tercero/)
 
 ## 🤖 About me
 
@@ -22,11 +22,12 @@
 
 &nbsp;
 
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloProgramming&show_icons=true&theme=radical)
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloProgramming&show_icons=true&theme=merko)
 
 
 ## 🔝 Top used languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloProgramming&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloProgramming&layout=donut-vertical&langs_count=10&theme=merko)
 
 
