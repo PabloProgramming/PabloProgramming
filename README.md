@@ -1,8 +1,8 @@
 # Hi there, I'm Pablo 👋🏼
 
 <table align="right">
- <tr><td><a href="README.md"><img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" height="13"> English</a></td></tr>
- <tr><td><a href="README_es.md"><img src="https://github.com/gartnerleandro/gartnerleandro/blob/main/uploads/es-flag.png?raw=true" height="13"> Español</a></td></tr>
+  <tr><td><img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" height="13"> English</td></tr>
+ <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" height="13"> Español</td></tr>
 </table>
 
 <img src="https://github.com/gartnerleandro/gartnerleandro/blob/main/uploads/animoji.png?raw=true" width="180">
