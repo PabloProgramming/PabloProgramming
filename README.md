@@ -23,7 +23,7 @@
 ## 🤖 **About Me**
 💻 **Coding Since:** 2022 with **2+ years of experience** in software development.  
 📚 **Tech Stack:** Java (Spring Boot), Hibernate, SQL, JavaScript, Vue.js, React, Node.js, Express.js.  
-🚀 **Passionate About:** Back-end development, performance optimization, scalable architectures.  
+🚀 **Passionate About:** Back-end development, performance optimisation, scalable architectures.  
 🛠️ **Believer In:** Clean code, best practices, and continuous learning.  
 📈 **Interests:** Finance, economics, and investments.  
 
@@ -69,12 +69,12 @@
 ---
 
 ## 📂 **Projects & Contributions**
-👨‍💻 **Nova Invest** - Investment management API *(Spring Boot, Java, PostgreSQL)*  
-📊 **Stock Market Analysis** - Data-driven stock analytics *(Python, SQL, Flask, Yahoo Finance API)*
-🍽️ **Restaurant Management System** - Full-stack restaurant management system *(Java Spring Boot, Vue.js, PostgreSQL)*  
-📰 **Reddit-like App** - Full-stack social platform with articles, comments, and pagination *(Node.js, Express.js, React, PostgreSQL, CSS, HTML)*
-🌎 **Personal Portfolio** - Showcasing my work *(Astro, Tailwind CSS, Vercel)*  
-🏥 **Hospital Booking System** - Web application for hospital appointment scheduling *(JavaScript, Node.js, Express.js, MongoDB)*
+- 👨‍💻 **Nova Invest** - Investment management API *(Spring Boot, Java, PostgreSQL)*  
+- 📊 **Stock Market Analysis** - Data-driven stock analytics *(Python, SQL, Flask, Yahoo Finance API)*  
+- 🍽️ **Restaurant Management System** - Full-stack restaurant management system *(Java Spring Boot, Vue.js, PostgreSQL)*  
+- 📰 **Reddit-like App** - Full-stack social platform with articles, comments, and pagination *(Node.js, Express.js, React, PostgreSQL, CSS, HTML)*  
+- 🌎 **Personal Portfolio** - Showcasing my work *(Astro, Tailwind CSS, Vercel)*  
+- 🏥 **Hospital Booking System** - Web application for hospital appointment scheduling *(JavaScript, Node.js, Express.js, MongoDB)* 
 
 
 
