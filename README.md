@@ -21,11 +21,11 @@
 ---
 
 ## 🤖 **About Me**
-💻 **Coding Since:** 2022 with **2+ years of experience** in software development.  
+💻 **Coding Since:** 2021 with **4+ years of experience** in software development.  
 📚 **Tech Stack:** Java (Spring Boot), Hibernate, SQL, JavaScript, Vue.js, React, Node.js, Express.js.  
 🚀 **Passionate About:** Back-end development, performance optimisation, scalable architectures.  
 🛠️ **Believer In:** Clean code, best practices, and continuous learning.  
-📈 **Interests:** Finance, economics, and investments.  
+📈 **Interests:** Finance, economics, investments, sports.
 
 ---
 
