@@ -1,93 +1,191 @@
-# Hi there, I'm Pablo 👋🏼
+<div align="center">
 
-<table align="right">
-  <tr><td><img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" height="13"> English</td></tr>
- <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" height="13"> Español</td></tr>
-</table>
+### 🇬🇧 English | 🇪🇸 Español
 
 <img src="https://github.com/gartnerleandro/gartnerleandro/blob/main/uploads/animoji.png?raw=true" width="180">
 
-🎯 **Software Developer | Passionate About Back-end & Full-Stack Development**  
+# Hi there, I'm Pablo 👋
 
-🚀 Currently seeking new opportunities to build scalable and efficient applications.  
-📍 Based in London, UK | Originally from Spain.  
+## Software Developer | Back-end & Full-Stack
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-montalvo-tercero/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pablo-montalvo-tercero.vercel.app)
+[![Email](https://img.shields.io/badge/Email-E94560?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablomontalvoster@gmail.com)
 
-### 🔗 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Montalvo%20Tercero-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablo-montalvo-tercero/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=globe)](https://portfolio-pablo-montalvo-tercero.vercel.app)
-
----
-
-## 🤖 **About Me**
-💻 **Coding Since:** 2021 with **4+ years of experience** in software development.  
-📚 **Tech Stack:** Java (Spring Boot), Hibernate, SQL, JavaScript, Vue.js, React, Node.js, Express.js.  
-🚀 **Passionate About:** Back-end development, performance optimisation, scalable architectures.  
-🛠️ **Believer In:** Clean code, best practices, and continuous learning.  
-📈 **Interests:** Finance, economics, investments, sports.
+</div>
 
 ---
 
-## 🚀 **Tech Stack**
-### 🖥️ **Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+## 💡 About Me
 
-### 🌐 **Frontend Development**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+📍 Based in London, UK | Originally from Spain
 
-### ⚙️ **Backend Development**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+🎯 4+ years building scalable backend systems & full-stack apps
 
-### 🗄️ **Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+🔭 Currently: Open to new opportunities
 
-### 🔧 **Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+🌱 Always learning, always growing
+
+I'm a software developer passionate about creating efficient, scalable applications. I specialize in **Java/Spring Boot** backend development and modern JavaScript frameworks, delivering clean, maintainable code from concept to production.
 
 ---
 
-## 📊 **GitHub Stats**
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloProgramming&show_icons=true&theme=merko)
+## 🛠️ Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloProgramming&layout=donut-vertical&langs_count=10&theme=merko)
+<div align="center">
 
----
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Testing** | ![JUnit](https://img.shields.io/badge/JUnit-518121?style=flat&logo=junit5&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
 
-## 📂 **Projects & Contributions**
-- 👨‍💻 **Nova Invest** - Investment management API *(Spring Boot, Java, PostgreSQL)*  
-- 📊 **Stock Market Analysis** - Data-driven stock analytics *(Python, SQL, Flask, Yahoo Finance API)*  
-- 🍽️ **Restaurant Management System** - Full-stack restaurant management system *(Java Spring Boot, Vue.js, PostgreSQL)*  
-- 📰 **Reddit-like App** - Full-stack social platform with articles, comments, and pagination *(Node.js, Express.js, React, PostgreSQL, CSS, HTML)*  
-- 🌎 **Personal Portfolio** - Showcasing my work *(Astro, Tailwind CSS, Vercel)*  
-- 🏥 **Hospital Booking System** - Web application for hospital appointment scheduling *(JavaScript, Node.js, Express.js, MongoDB)* 
-
-
+</div>
 
 ---
 
-## 🎯 **Let's Connect!**  
-If you're looking for a **skilled and passionate back-end developer**, feel free to reach out.  
-💌 **Email:** [pablomontalvoster@gmail.com](mailto:pablomontalvoster@gmail.com)  
-📫 **LinkedIn:** [Pablo Montalvo Tercero](https://www.linkedin.com/in/pablo-montalvo-tercero/)  
+## 🎯 What I Bring to the Table
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🔧 Backend Expertise
+Enterprise-grade APIs & microservices with Spring Boot
+
+</td>
+<td align="center" width="25%">
+
+### 🧪 Quality Assurance
+Unit, integration & E2E testing with automated pipelines
+
+</td>
+<td align="center" width="25%">
+
+### 🌐 Full-Stack Proficiency
+End-to-end development from database to UI
+
+</td>
+<td align="center" width="25%">
+
+### ⚡ Performance Focused
+Optimized, scalable, and maintainable code
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
+_I believe quality isn't an afterthought — it's built into every line of code._
+
+</div>
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!** 🌟  
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloProgramming&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/PabloProgramming)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloProgramming&layout=compact&theme=chartreuse-dark&hide_border=true)](https://github.com/PabloProgramming)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PabloProgramming&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Nova Invest
+> Investment management API built with enterprise-grade architecture
+
+**Tech:** `Java` `Spring Boot` `PostgreSQL`
+
+[![View Project](https://img.shields.io/badge/View-Repository-00B4D8?style=for-the-badge)](https://github.com/PabloProgramming/nova-invest)
+
+</td>
+<td width="50%">
+
+### 🍽️ EOEats
+> Full-stack restaurant management system
+
+**Tech:** `Java` `Spring Boot` `Vue.js` `PostgreSQL`
+
+[![Backend](https://img.shields.io/badge/Backend-6DB33F?style=for-the-badge)](https://github.com/PabloProgramming/backend-eoeats)
+[![Frontend](https://img.shields.io/badge/Frontend-4FC08D?style=for-the-badge)](https://github.com/PabloProgramming/front-eoeats)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📰 News Platform
+> Full-stack news aggregation platform
+
+**Tech:** `Node.js` `Express.js` `React` `PostgreSQL`
+
+[![Backend](https://img.shields.io/badge/Backend-43853D?style=for-the-badge)](https://github.com/PabloProgramming/news_backend)
+[![Frontend](https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge)](https://github.com/PabloProgramming/news_frontend)
+
+</td>
+<td width="50%">
+
+### 📊 Stock Market Analysis
+> Data-driven stock analytics platform
+
+**Tech:** `Python` `SQL` `Flask` `Yahoo Finance API`
+
+[![View Project](https://img.shields.io/badge/View-Repository-3776AB?style=for-the-badge)](https://github.com/PabloProgramming)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏥 Hospital Booking System
+> Web application for appointment scheduling
+
+**Tech:** `Node.js` `Express.js` `MongoDB`
+
+[![View Project](https://img.shields.io/badge/View-Repository-4EA94B?style=for-the-badge)](https://github.com/PabloProgramming)
+
+</td>
+<td width="50%">
+
+### 🎓 Harvard CS50 Projects
+> Academic projects from Harvard's CS50 course
+
+**Tech:** `C`
+
+[![View Projects](https://img.shields.io/badge/View-Projects-555555?style=for-the-badge)](https://github.com/PabloProgramming/Harvard-projects)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-montalvo-tercero/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pablo-montalvo-tercero.vercel.app)
+[![Email](https://img.shields.io/badge/Email-E94560?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablomontalvoster@gmail.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=PabloProgramming&color=00B4D8&style=flat-square)
+
+</div>
 
 
