@@ -90,8 +90,8 @@ _I believe quality isn't an afterthought — it's built into every line of code.
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloProgramming&show_icons=true&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/PabloProgramming)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloProgramming&layout=compact&theme=blue-green&hide_border=true)](https://github.com/PabloProgramming)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=PabloProgramming&show_icons=true&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)](https://github-stats-extended.vercel.app/api?username=PabloProgramming)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=PabloProgramming&layout=compact&theme=blue-green&hide_border=true)](https://github-stats-extended.vercel.app/api?username=PabloProgramming)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PabloProgramming&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
 
