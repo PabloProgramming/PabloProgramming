@@ -15,17 +15,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Update cache-busting timestamps
+      - name: Download stats SVGs
         run: |
-          DATE=$(date +%Y%m%d)
-          sed -i "s/nocache=[0-9]*/nocache=$DATE/g" README.md
-          sed -i "s/&v=[0-9]*/\&v=$DATE/g" README.md
+          mkdir -p assets
+          curl -s "https://github-stats-extended-preview.vercel.app/api?username=PabloProgramming&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" -o assets/stats.svg
+          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=PabloProgramming&theme=github_dark&hide_border=true" -o assets/streak.svg
+          curl -s "https://github-stats-extended-preview.vercel.app/api/top-langs/?username=PabloProgramming&layout=compact&theme=github_dark&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" -o assets/top-langs.svg
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet README.md; then
-            git add README.md
-            git commit -m "chore: update stats cache-busting timestamp"
+          if ! git diff --quiet assets/; then
+            git add assets/
+            git commit -m "chore: update stats SVGs"
             git push
           fi
