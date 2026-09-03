@@ -1,0 +1,27 @@
+name: Update Stats Cache
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update cache-busting timestamps
+        run: |
+          DATE=$(date +%Y%m%d)
+          sed -i "s/nocache=[0-9]*/nocache=$DATE/g" README.md
+          sed -i "s/&v=[0-9]*/\&v=$DATE/g" README.md
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "chore: update stats cache-busting timestamp"
+            git push
+          fi
