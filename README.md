@@ -90,10 +90,10 @@ _I believe quality isn't an afterthought — it's built into every line of code.
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended-preview.vercel.app/api?username=PabloProgramming&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&nocache=20260902)](https://github-stats-extended-preview.vercel.app/api?username=PabloProgramming)
-[![Top Languages](https://github-stats-extended-preview.vercel.app/api/top-langs/?username=PabloProgramming&layout=compact&theme=github_dark&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&nocache=20260902)](https://github-stats-extended-preview.vercel.app/api/top-langs/?username=PabloProgramming)
+[![GitHub Stats](https://github-stats-extended-preview.vercel.app/api?username=PabloProgramming&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&nocache=20260903)](https://github-stats-extended-preview.vercel.app/api?username=PabloProgramming)
+[![Top Languages](https://github-stats-extended-preview.vercel.app/api/top-langs/?username=PabloProgramming&layout=compact&theme=github_dark&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&nocache=20260903)](https://github-stats-extended-preview.vercel.app/api/top-langs/?username=PabloProgramming)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PabloProgramming&theme=github_dark&hide_border=true&v=20260902)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PabloProgramming&theme=github_dark&hide_border=true&v=20260903)](https://git.io/streak-stats)
 
 
 </div>
